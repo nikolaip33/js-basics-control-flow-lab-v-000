@@ -6,6 +6,6 @@ function scuberGreetingForFeet(n) {
       charge "This one is on me!"
       break
 
-    }
-
+  }
+  return charge  
 }
